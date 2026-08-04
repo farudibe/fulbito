@@ -1,0 +1,12 @@
+name = "fulbito"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+# Sirve los archivos estáticos (index.html, /assets, etc.) directamente desde la raíz del repo.
+[assets]
+directory = "./"
+binding = "ASSETS"
+
+[[kv_namespaces]]
+binding = "CAREERS_KV"
+id = "17342d79207f4f9f8d4f149f96152cc3"
