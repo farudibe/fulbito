@@ -1,8 +1,0 @@
-name = "fulbito"
-# Carpeta donde está tu index.html (la raíz del sitio publicado). Si tu index.html
-# está directamente en la raíz del repo, dejalo en ".".
-pages_build_output_dir = "."
-
-[[kv_namespaces]]
-binding = "CAREERS_KV"
-id = "17342d79207f4f9f8d4f149f96152cc3"
